@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/weatherapp.iml" filepath="$PROJECT_DIR$/weatherapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlocWeatherApp.iml" filepath="$PROJECT_DIR$/BlocWeatherApp.iml" />
     </modules>
   </component>
 </project>
